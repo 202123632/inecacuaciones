@@ -1,0 +1,2 @@
+# inecacuaciones
+resuelva  inecuaciones
